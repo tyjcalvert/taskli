@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS taskli_db;
+CREATE DATABASE taskli_db;
